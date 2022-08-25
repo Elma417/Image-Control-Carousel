@@ -5,10 +5,10 @@
 
 
 ### 项目部署
-webIDE不能运行，本地安装依赖后打开index.html即可。
+本地安装依赖后打开index.html即可。
 ```javascript
 // 安装依赖
 yarn install
 yarn watch
 ``` 
-（尝试往Vue3迁移，但好多问题解决不了时间不允许了T-T）
+（尝试往React迁移中）
