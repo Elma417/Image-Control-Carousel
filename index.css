@@ -1,0 +1,14 @@
+.btn.active.focus, .btn.active:focus, .btn.focus, .btn:active.focus, .btn:active:focus, .btn:focus {
+    outline: none;
+}
+.carousel-inner>.item.active, .carousel-inner>.item.next.left, .carousel-inner>.item.prev.right {
+    display: flex;
+    justify-content: center;
+}
+.well {
+    background-color: #2a2a2a;
+    border: none;
+}
+.panel {
+    background-color: #2a2a2a;
+}
